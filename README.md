@@ -10,7 +10,7 @@ The project explores **supervised regression in time-series forecasting**, compa
 
 ## 📂 Repository Contents
 - `data/Bitcoin_Daily.csv` — Raw dataset (daily OHLCV, 2019–2023).  
-- `notebooks/Cryptocurrency_Price_Forecasting.ipynb` — Jupyter notebook with full implementation.  
+- `notebooks/BitCoin_Price_Forecasting.ipynb` — Jupyter notebook with full implementation.  
 - `reports/Report.md` — Documentation and case study write-up.  
 - `results/` — Visualizations (training loss curves, actual vs. predicted plots).  
 - `requirements.txt` — Python dependencies for reproducibility.  
