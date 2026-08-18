@@ -1,4 +1,4 @@
-# 📊 Cryptocurrency Price Forecasting — Project Report
+# 📊 Bitcoin Price Forecasting — Project Report
 
 ## 🎓 Course Context
 This project was developed as part of the **Master in Artificial Intelligence and Data Science** program.  
