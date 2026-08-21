@@ -49,8 +49,8 @@ Objective: To critically interpret, communicate, and document Machine Learning a
 ## 📊 Part 5 — Model Evaluation
 - **Metrics:** MSE, MAE, MAPE (in real USD).  
 - **Results:**  
-  - MLP → MSE: 1.64M | MAE: 1013 | MAPE: 4.53%  
-  - LSTM → MSE: 1.29M | MAE: 795 | MAPE: 3.44%  
+  - MLP → MSE: 2.07M | MAE: 1,267.47 | MAPE: 5.66%  
+  - LSTM → MSE: 1.05M | MAE: 732.33 | MAPE: 3.14% 
 - **Finding:** LSTM tracks trend reversals more closely, confirming the sequence-aware hypothesis.  
 
 ---
